@@ -3,6 +3,7 @@ langchain
 langchain-openai
 langchain-community
 langchain-tavily
+langchain-groq
 openai
 pydantic
 streamlit
@@ -10,3 +11,5 @@ python-dotenv
 pandas
 tavily-python
 google-genai
+pillow
+requests
