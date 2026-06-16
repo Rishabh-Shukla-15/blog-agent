@@ -1,6 +1,6 @@
 # Multi-Agent AI Blog Generation System
 
-A multi-agent Agentic AI workflow application that autonomously generates blogs using LangGraph orchestration, Groq LLMs, RAG pipelines, and AI image generation.
+A multi-agent Agentic AI workflow application that autonomously generates blogs using LangGraph orchestration, RAG pipelines, and AI image generation.
 
 ## Features
 - Router, Research, Planner, Worker, and Reducer agents
@@ -10,7 +10,7 @@ A multi-agent Agentic AI workflow application that autonomously generates blogs 
 - Streamlit deployment
 
 ## Tech Stack
-Python, LangGraph, LangChain, Groq, Tavily API, Streamlit, Pydantic
+Python, LangGraph, LangChain, Tavily API, Streamlit, Pydantic
 
 ## Live Demo
 [Try the App](https://blog-agent-rishabh-nit-shukla.streamlit.app/)
