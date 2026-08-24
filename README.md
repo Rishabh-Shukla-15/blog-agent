@@ -12,9 +12,6 @@ A multi-agent Agentic AI workflow application that autonomously generates blogs 
 ## Tech Stack
 Python, LangGraph, LangChain, Tavily API, Streamlit, Pydantic
 
-## Live Demo
-[Try the App](https://blog-agent-rishabh-nit-shukla.streamlit.app/)
-
 ---
 Rishabh Shukla  
 AI & ML, NIT Kurukshetra
